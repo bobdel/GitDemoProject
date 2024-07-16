@@ -19,6 +19,7 @@
 		71CF59052C460A5A005768B5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		71CF59072C460A5B005768B5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		71CF590A2C460A5B005768B5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		71CF59112C460B3C005768B5 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +36,7 @@
 		71CF58F72C460A5A005768B5 = {
 			isa = PBXGroup;
 			children = (
+				71CF59112C460B3C005768B5 /* README.md */,
 				71CF59022C460A5A005768B5 /* GitDemoProject */,
 				71CF59012C460A5A005768B5 /* Products */,
 			);
